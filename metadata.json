@@ -1,0 +1,6 @@
+{
+  "name": "LensCode | لِـنس كود - منصة البصريات الفاخرة والعدسات",
+  "description": "متجر لِـنس كود الفاخر للنظارات الطبية والشمسية والعدسات اللاصقة، وتجربة النظارات الافتراضية 3D وفحص النظر المنزلي VIP في السعودية والخليج.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
